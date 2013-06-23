@@ -1,5 +1,5 @@
 ---
-title: Statistics, R, Graphics and Fun
+title: Enjoy the Life!
 layout: page
 ---
 
